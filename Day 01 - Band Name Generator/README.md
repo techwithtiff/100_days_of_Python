@@ -13,5 +13,5 @@ Band Name Generator Day 1 Project
 # - string manipulation
 # - commenting
 
-Test out this project here!
+Test out this project here! Click tthe link to open the project, once the compiler opens click run and try out the program!
 [Band Name Generator](https://www.programiz.com/online-compiler/065XKlj1louhx)
