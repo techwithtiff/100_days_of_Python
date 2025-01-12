@@ -14,4 +14,4 @@ Band Name Generator Day 1 Project
 # - commenting
 
 Test out this project here!
-[link text](https://www.programiz.com/online-compiler/065XKlj1louhx)
+[Band Name Generator](https://www.programiz.com/online-compiler/065XKlj1louhx)
