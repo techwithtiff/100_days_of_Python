@@ -1,0 +1,27 @@
+#I added in this portion of code to add jazz up this project a bit!
+import datetime
+current_hour = datetime.datetime.now().hour
+if current_hour < 12:
+ print("Good morning!")
+elif current_hour < 18:
+ print("Good afternoon!")
+else:
+ print("Good evening!")
+ print("Hello! Welcome to the Band Name Generator!")
+
+
+# says hello to the user and prompts them to enter their name.
+name = input("What is your name?\n")
+
+# welcomes the user to the program by name.
+print("Hello" + " " + name + "!")
+
+#prompts the user to enter a city
+city = input("What city did you grow up in?\n")
+
+# prompts the user to enter the name of a pet
+pet = input("What is the name of your pet?\n")
+
+# combines the name of the city and pet to return a "band name" and says thank you to the user.
+print("Your Band Name could be: " + city + " " + pet)
+print("Keep on Rockin' and Thank you for trying out my program!")
